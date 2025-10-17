@@ -12,8 +12,8 @@ With Anchorpoint you can:
 - Browse assets visually (thumbnails, previews)  
 - Tag, comment, review, and approve assets  
 - Use templates and folder conventions to organize assets
-- Integrate with Unity, Unreal, other DCCs such as Blender and Maya via plugins or API 
----
+- Integrate with Unity, Unreal, other DCCs such as Blender and Maya via plugins or API
+  
 
 ## Why Anchorpoint
 
@@ -23,7 +23,6 @@ With Anchorpoint you can:
 - **Continuous updates**: We ship monthly updates with new features and UX improvements.
 
 
----
 
 ## Getting Started
 
@@ -32,7 +31,7 @@ With Anchorpoint you can:
 3. Join our Discord or community channels for support, feedback, and updates.  
 4. Start by creating or joining a repository, enabling file locking or selective checkout as needed, and onboarding your team.
 
----
+
 
 ## Integration & Extensibility
 
@@ -40,17 +39,15 @@ With Anchorpoint you can:
 - Python API and “Actions” system to automate tasks (e.g. renaming, publishing, conversions)
 - It plays nicely with existing Git workflows: you can still use other Git clients if you don’t rely on Anchorpoint-exclusive features. 
 
----
 ## Changelog & Releases
 
 Check our [Releases](https://www.anchorpoint.app/releases) page for the latest changelogs and feature updates.
 
----
 
 ## Contact & Support
 
 - **Website**: [anchorpoint.app](https://www.anchorpoint.app)  
 - **Docs**: docs.anchorpoint.app
 - **Email / Support**: via the website or the in-app support  
-- **Discord & Community**: [engage with](https://discord.com/invite/ZPyPzvx) us for support, feedback, or discussions  
+- **Community**: Talk to us on our [Discord](https://discord.com/invite/ZPyPzvx) us for support, feedback, or discussions  
 
