@@ -2,8 +2,6 @@
 
 **Version control & asset management for artists**
 
----
-
 ## What is Anchorpoint
 
 Anchorpoint is a version control tool built for artists, animators, game developers, and creative teams. It extends Git to better handle large binary assets, review workflows, and metadata, while keeping the simplicity of a visual file browser.
@@ -54,5 +52,5 @@ Check our [Releases](https://www.anchorpoint.app/releases) page for the latest c
 - **Website**: [anchorpoint.app](https://www.anchorpoint.app)  
 - **Docs**: docs.anchorpoint.app
 - **Email / Support**: via the website or the in-app support  
-- **Discord & Community**: engage with us for support, feedback, or discussions  
+- **Discord & Community**: [engage with](https://discord.com/invite/ZPyPzvx) us for support, feedback, or discussions  
 
